@@ -42,9 +42,10 @@
 
 
 ### ⚙️ &nbsp;GitHub Analytics
-
 ***
-<p align = "center">
-  <a href=""> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DutaKey&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&hide_border=true&line_height=27&include_all_commits=true&count_private=true"> </a>
- <a href=""> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DutaKey&theme=dark&hide_border=true&layout=compact"> </a>
-</p>
+<div align="center">
+  <img width="444em" src="https://github-readme-stats-arugaz.vercel.app/api?username=DutaKey&&include_all_commits=true&count_private=true&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="DutaKey"/>
+  <img width="444em" src="https://github-readme-streak-stats.herokuapp.com?user=DutaKey&theme=vision-friendly-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="DutaKey"/>
+  <img width="444em" src="https://github-profile-trophy.vercel.app/?username=DutaKey&title=MultipleLang,Stars,Followers,Issues,Commits,Puller&row=2&column=3&layout=compact&theme=juicyfresh&no-frame=true&no-bg=true" alt="DutaKey"/>
+  <img width="444em" src="https://github-readme-stats-arugaz.vercel.app/api/top-langs/?username=DutaKey&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=11" alt="DutaKey"/>
+</div>
